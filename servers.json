@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Catster's GDPS",
+    "link": "https://catstersgdps.kontroll.dev/",
+    "author": "KontrollFreek, Catster",
+    "authorLink": "https://twitter.com/KontrollF",
+    "id": "",
+    "endpoint": "https://catstersgdps.kontroll.dev/",
+    "timestampSuffix": " ago",
+    "demonList": "https://catstersgdps.kontroll.dev/demonlist",
+    "pinned": true
+  }
+]
